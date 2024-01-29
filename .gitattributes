@@ -1,0 +1,10 @@
+anonymize/anonymize.zip filter=lfs diff=lfs merge=lfs -text
+diabetes_binary/diabetes_binary.zip filter=lfs diff=lfs merge=lfs -text
+file/file.zip filter=lfs diff=lfs merge=lfs -text
+graduation/graduation.zip filter=lfs diff=lfs merge=lfs -text
+spotify/spotify.zip filter=lfs diff=lfs merge=lfs -text
+superstore/superstore.zip filter=lfs diff=lfs merge=lfs -text
+youtube/youtube.zip filter=lfs diff=lfs merge=lfs -text
+merged_data/merged_data.zip filter=lfs diff=lfs merge=lfs -text
+openpowerlifting/openpowerlifting.zip filter=lfs diff=lfs merge=lfs -text
+spotify_v3/spotify_v3.zip filter=lfs diff=lfs merge=lfs -text
