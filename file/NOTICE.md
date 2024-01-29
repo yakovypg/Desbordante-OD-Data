@@ -1,6 +1,6 @@
 # License notice
 
-file_norm.csv contains information from (file.csv)[https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset], which is made available here under the [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0).
+file_norm.csv contains information from [file.csv](https://www.kaggle.com/datasets/jacksondivakarr/online-shopping-dataset), which is made available here under the [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 file_norm.csv is a modified version of a file.csv.
 

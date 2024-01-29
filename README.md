@@ -1,6 +1,6 @@
 # Desbordante-OD-Data
 
-Here lie the datasets for the (Desbordante)[https://github.com/Mstrutov/Desbordante] platform.
+Here lie the datasets for the [Desbordante](https://github.com/Mstrutov/Desbordante) platform.
 
 ## Getting started
 
